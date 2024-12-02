@@ -1,0 +1,19 @@
+body{
+    background-color:darksalmon;
+}
+button{
+    padding: 4px;
+    border: 2px solid black;
+    font-size:xx-large;
+    font-weight: bold;
+    /* background-color: #f0f0f0; */
+    cursor: pointer;
+
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
