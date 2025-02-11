@@ -13,7 +13,6 @@ const Student=({data}) => {
         <tr><th>Section:</th><td>{data.section}</td></tr>
                 </tbody>
             </table>
-           {/* {JSON.stringify(data)} */}
         </div>
     )
 }
